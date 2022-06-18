@@ -3,8 +3,8 @@
  * string will be length 1 or more.
  */
 public static String main(String[] args) {
-    public String  backAround(String str) {
-        char last = str.charAt(str.length() - 1);
+public String  backAround(String str) {
+    char last = str.charAt(str.length() - 1);
         return last + str + last;
-    }
+}
 }
