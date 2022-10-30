@@ -1,2 +1,2 @@
-Solutions for CodingBat problems 
-
+## Solutions to codingbat problems
+### Every beginner should try these problems
